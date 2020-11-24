@@ -66,7 +66,7 @@ namespace Banco_Digital.Classes
             {
                 sw = File.CreateText(arquivo_nome);
             }
-            user.Nome = Console.ReadLine() + "; ";
+            user.Nome = Console.ReadLine() + "/r/n";
             sw.WriteLine(user.Nome);
             sw.Close();
             Console.WriteLine("=======================================================");
