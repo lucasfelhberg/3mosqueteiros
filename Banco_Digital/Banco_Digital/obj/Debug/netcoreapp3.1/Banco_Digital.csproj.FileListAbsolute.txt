@@ -1,0 +1,13 @@
+C:\Users\Jonh Wili\source\repos\Banco_Digital\Banco_Digital\bin\Debug\netcoreapp3.1\Banco_Digital.exe
+C:\Users\Jonh Wili\source\repos\Banco_Digital\Banco_Digital\bin\Debug\netcoreapp3.1\Banco_Digital.deps.json
+C:\Users\Jonh Wili\source\repos\Banco_Digital\Banco_Digital\bin\Debug\netcoreapp3.1\Banco_Digital.runtimeconfig.json
+C:\Users\Jonh Wili\source\repos\Banco_Digital\Banco_Digital\bin\Debug\netcoreapp3.1\Banco_Digital.runtimeconfig.dev.json
+C:\Users\Jonh Wili\source\repos\Banco_Digital\Banco_Digital\bin\Debug\netcoreapp3.1\Banco_Digital.dll
+C:\Users\Jonh Wili\source\repos\Banco_Digital\Banco_Digital\bin\Debug\netcoreapp3.1\Banco_Digital.pdb
+C:\Users\Jonh Wili\source\repos\Banco_Digital\Banco_Digital\obj\Debug\netcoreapp3.1\Banco_Digital.csprojAssemblyReference.cache
+C:\Users\Jonh Wili\source\repos\Banco_Digital\Banco_Digital\obj\Debug\netcoreapp3.1\Banco_Digital.AssemblyInfoInputs.cache
+C:\Users\Jonh Wili\source\repos\Banco_Digital\Banco_Digital\obj\Debug\netcoreapp3.1\Banco_Digital.AssemblyInfo.cs
+C:\Users\Jonh Wili\source\repos\Banco_Digital\Banco_Digital\obj\Debug\netcoreapp3.1\Banco_Digital.csproj.CoreCompileInputs.cache
+C:\Users\Jonh Wili\source\repos\Banco_Digital\Banco_Digital\obj\Debug\netcoreapp3.1\Banco_Digital.dll
+C:\Users\Jonh Wili\source\repos\Banco_Digital\Banco_Digital\obj\Debug\netcoreapp3.1\Banco_Digital.pdb
+C:\Users\Jonh Wili\source\repos\Banco_Digital\Banco_Digital\obj\Debug\netcoreapp3.1\Banco_Digital.genruntimeconfig.cache
